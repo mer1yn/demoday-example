@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+  .container {
+    background-color: black;
+    color: white;
+    width: 400px;
+    height: 600px;
+  }
+  .centro {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    top: 100px;
+    left: 100px;
+  }
+.rojo{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 20px;
+  height: 20px;
+  background-color: red;
+}
